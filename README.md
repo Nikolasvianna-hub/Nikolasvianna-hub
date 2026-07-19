@@ -5,7 +5,7 @@
 Hello world, my name is Nikolas. Welcome!
 I am passionate about information security and offensive tactics, with a primary focus on penetration testing, vulnerability analysis, and Red Team operations. I leverage my software development background to understand systems under the hood, write custom scripts, and automate security assessments.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolasvianna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-vianna-099b932b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikolasvianna/)
 [![Repositorio](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolasvianna?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolasvianna)
