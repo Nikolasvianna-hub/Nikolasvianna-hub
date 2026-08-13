@@ -3,7 +3,7 @@
 **`Cybersecurity Enthusiast | Red Team | Penetration Tester`**
 
 Hello world, my name is Nikolas. Welcome!
-I am passionate about information security and offensive tactics, with a primary focus on penetration testing, vulnerability analysis, and Red Team operations. I leverage my software development background to understand systems under the hood, write custom scripts, and automate security assessments.
+I am passionate about information security and offensive tactics, with a primary focus on penetration testing, vulnerability analysis, and Blue Team operations. I leverage my software development background to understand systems under the hood, write custom scripts, and automate security assessments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-vianna-099b932b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nikolasvianna_/)
